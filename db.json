@@ -1,0 +1,18 @@
+{
+  "skins": [
+    {
+      "id": 336750,
+      "weapon": "AWP",
+      "skin": "Neo-noir",
+      "min_val": "33",
+      "max_val": "36"
+    },
+    {
+      "id": 991229,
+      "weapon": "AK-47",
+      "skin": "Jaguar",
+      "min_val": "",
+      "max_val": ""
+    }
+  ]
+}
