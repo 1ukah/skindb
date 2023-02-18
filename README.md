@@ -1,5 +1,5 @@
 # skindb (WIP) 
-bare bones discord bot made for archiving counter-strike: global offensive skins. 
+bare bones discord bot made for pricing counter-strike: global offensive skins. 
 
 reading data from discord chat using discordjs and writing them into a json file using lowdb.
 
